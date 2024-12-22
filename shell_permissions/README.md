@@ -1,5 +1,9 @@
 # Shell Permissions Project
 
-## 0-iam_betty
-This script switches the current user to the user `betty`.
+This project contains shell scripts for managing permissions in a Linux environment.
+
+## Scripts
+
+- **0-iam_betty**: Switches the current user to the user `betty`.
+
 
